@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Guide
+title: DELETE THIS! Markdown Guide
 subtitle: Resources to work with Markdown
 categories: markdown
 tags: [guide, markdown]
