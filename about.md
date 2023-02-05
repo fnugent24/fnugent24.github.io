@@ -15,4 +15,4 @@ It seems that the general consensus among both students creating them and author
 My intentions to produce this e-portfolio are to both provide a detailed account of my skills and experiences as well as to use as a platform of reflection during my progression at university. 
 
 ### How
-These reflections will be displayed in separate categories, easily accessible from the home page.
+These reflections will be displayed in separate categories of posts, easily accessible from the home page.
