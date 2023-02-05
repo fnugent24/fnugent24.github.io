@@ -6,11 +6,11 @@ tags: [Trends, 3]
 ---
 
 ## Reflection of unit
-
 Prepare for this week's seminar by attempting the following questions.
 
-### Emerging Technology
+#### Emerging Technology
 Define the terms below and, where possible, give examples and cases:
+
 Virtual Machine
 
 Bring Your Own Device (BYOD)
@@ -23,7 +23,7 @@ Distributed computing
 
 Bring a case example of Artificial Intelligence to the class for a discussion of the advantages and disadvantages of deploying such technologies in organisations and societies.
 
-### Networking
+#### Networking
 Define the terms below and, where possible, give examples and cases:
 
 Protocol
@@ -46,7 +46,7 @@ Learning Outcomes: Identify and explain the architecture, structure and function
 Critically appraise the emerging trends in the field, such as cloud computing, big data, cyber security, and the professional and ethical requirements for dealing with such contemporary computer-based technologies.
 
 
-### Learning Outcomes:
+#### Learning Outcomes:
 To appreciate the emerging trend of computing that led to the advancement of human computer interaction.
 
 To identify the fundamental technologies that are deployed to support the emerging computing technologies.
