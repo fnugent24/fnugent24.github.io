@@ -1,7 +1,17 @@
 ---
 layout: post
-title: DELETE THIS! Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Unit 1
+subtitle: Computing as a Profession – Responsibilities and Challenges
+categories: 
+tags: [Computing, introduction, 1]
 ---
+
+
+
+## Review of an organisation’s IT Code of Conduct and reflect on:
+
+Best practices.
+Areas that can be improved.
+Incidents (anonymously) and your role as a computing professional.
+What could have been done to improve the situation.
+You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.).
