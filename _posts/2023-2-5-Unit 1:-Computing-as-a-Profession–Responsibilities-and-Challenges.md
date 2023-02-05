@@ -22,5 +22,7 @@ You should demonstrate that you understand the topic covered and ensure you use 
 
 ### Learning Outcomes
 To appreciate the roles and responsibilities of computer professionals.
+
 To examine the various challenges and threats a computer professional may deal with.
+
 To apply the professional ethics and code of conduct in computing practices.
