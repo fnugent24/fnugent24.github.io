@@ -46,7 +46,9 @@ Benefits for using system virtual machines - if security on one guest system is 
 
 
 
+
 e-portfolio – managed to progress quite a bit with this this week. Already started in unit 1 but this week I polished it quite a bit and have gained the knowledge of how to implement posts which I am labelling for each separate unit. Seem to be quite confident of how to perform the fundamentals with e-portfolios on github now.
+
 
 
 
