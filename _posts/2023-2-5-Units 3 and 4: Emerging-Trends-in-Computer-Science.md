@@ -11,6 +11,7 @@ tags: [Trends, Infrastructure, Network, 3, 4]
 
 **Big data** is a process that allows the collection and processing of large, heterogenous volumes of data, which can be structured, semi-structured and unstructured data or video data. The goal of this big data processing is to aid today’s organisations. These organisations can capture, process, store and analyse big data to achieve a competitive advantage. Examples can include large organisations such as Google and Netflix.
 
+
 #### Cloud Computing
 Examples of 3 services provided by cloud infrastructure:
 
@@ -45,6 +46,7 @@ The “point” at which one network is linked to an internet is often called a 
 
 **Protocols** are rules by which activities are conducted on a network. The rules and procedures determine how the data will be addressed, transmitted and the rules for routing the data through a TCP/IP network.
 
+
 #### The Internet
 The most notable example of an internet is the Internet (with uppercase I). While an internet refers to any network of interconnected devices which can communicate with each other, the Internet is the global system of interconnected networks. In contrast, an intranet is a network of computers designed for a specific group of users (i.e. workers in a company).
 
@@ -52,25 +54,33 @@ Internet service providers are large organisations who setup, manage and maintai
 
 **Webservers** provide access to documents.
 
+
 #### Cyber Security
 Cyber security is a series of actions by which we can protect and recover network data and programs from a cyberattack. The form of attacks are malware, spam or denial of service.
-<p>**Malware** is a harmful software, in other words, a malicious software, that may damage your computer. A virus like spyware, worms or trojans are malicious software.</p>
-<p>Another threat is **phishing** which is an email which intends to reveal company or personal information from you.</p>
-<p>We also see **denial of service** or distributed denial of service in which a huge influx of services pass through the bandwidth causing this network bandwidth to collapse or to get slow not allowing targeting service to take place. There are several ways we can attempt to stop them. Maybe we can deploy a firewall or can install an anti-virus program.</p>
+
+**Malware** is a harmful software, in other words, a malicious software, that may damage your computer. A virus like spyware, worms or trojans are malicious software.
+
+Another threat is **phishing** which is an email which intends to reveal company or personal information from you.
+
+We also see **denial of service** or distributed denial of service in which a huge influx of services pass through the bandwidth causing this network bandwidth to collapse or to get slow not allowing targeting service to take place. There are several ways we can attempt to stop them. Maybe we can deploy a firewall or can install an anti-virus program.
 
 
 #### Codio this week – started HTML unit on Codio and how to create a webpage
 Few important things to keep in mind when coding a webpage:
-<p>Webpage always starts with the tag <html> and always has to end after everything with </html>.</p>
-<p>The slash / is very important as you need to include it most times when you want to end something.</p>
-<p>The tag <body> is where all the displayed content is (e.g. text, images) and ends with </body>.</p>
-<p>The tag <b is when you want something written to be **bold** – but it ends without a slash just <b.</p>
-<p>The tag <img is when you want to insert an image.                     e.g. <img src = funny_man.jpg.</p>
+
+Webpage always starts with the tag <html> and always has to end after everything with </html>.
+
+The slash / is very important as you need to include it most times when you want to end something.
+The tag <body> is where all the displayed content is (e.g. text, images) and ends with </body>.
+The tag <b is when you want something written to be **bold** – but it ends without a slash just <b.
+The tag <img is when you want to insert an image.                     e.g. <img src = funny_man.jpg.
 
 
 
 
 
 #### Learning Outcomes:
-<p>Identify and explain the architecture, structure and functionality of basic components of a computer system.</p> 
-<p>Critically appraise the emerging trends in the field, such as cloud computing, big data, cyber security, and the professional and ethical requirements for dealing with such contemporary computer-based technologies.</p>
+
+Identify and explain the architecture, structure and functionality of basic components of a computer system.
+
+Critically appraise the emerging trends in the field, such as cloud computing, big data, cyber security, and the professional and ethical requirements for dealing with such contemporary computer-based technologies.
