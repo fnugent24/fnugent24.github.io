@@ -6,7 +6,6 @@ tags: [Trends, Infrastructure, Network, 3, 4]
 ---
 
 ## Reflection of units
-Unit 3 and 4 reflection:
 
 #### A few key terms that I’ve learned about for these units:
 <b> Big data <b> is a process that allows the collection and processing of large, heterogenous volumes of data, which can be structured, semi-structured and unstructured data or video data. The goal of this big data processing is to aid today’s organisations. These organisations can capture, process, store and analyse big data to achieve a competitive advantage. Examples can include large organisations such as Google and Netflix.
