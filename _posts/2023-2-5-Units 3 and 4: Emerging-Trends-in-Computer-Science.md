@@ -13,6 +13,7 @@ tags: [Trends, Infrastructure, Network, 3, 4]
 
 #### Cloud Computing
 Examples of 3 services provided by cloud infrastructure:
+
 **SaaS** is a cloud application service which uses internet to delivery those applications that are managed by thirdparty vendors. You don’t need to download or install these the applications on your computer. Say for example, CiscoWebEx, Google Apps.
 
 **PaaS** : it’s a platform as a service and allows the developers to build components to customise an application. In this service, third party vendors can manage infrastructure, like storage, network, but developers can maintain and manage the applications. Examples of PaaS is: Windows Azure, google App engine.
