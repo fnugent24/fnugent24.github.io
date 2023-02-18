@@ -18,6 +18,8 @@ Examples of 3 services provided by cloud infrastructure:</p>
 
 #### Computer Networks
 The main purpose of a computer network is to connect the computer resources and to allow the users to perform multiple tasks simultaneously.</p>
+A computer network is often classified as being either a personal area net-work **(PAN)**, a local area network **(LAN)**, a metropolitan area network **(MAN)**, or a wide area network **(WAN)**.</p>
+A **PAN** is normally used for short-range communications—typically less than a few meters—such as between a wireless headset and a smartphone, or between a wireless mouse and its PC.</p>
 Internet is an example of WAN (wide-area network), where network covers a country or even a continent. Examples of WAN is 4G and 5G that we hear a lot about.</p> 
 In the **Bus topology/network** , the workstations can share the main cable (or the bus) for data transmission using a protocol called Carrier Sense Multiple Access (CSMA). The problem with this network is that when the main cable is broken, it affects the whole network.</p>
 **Protocols** are rules by which activities are conducted on a network. The rules and procedures determine how the data will be addressed, transmitted and the rules for routing the data through a TCP/IP network.</p>
