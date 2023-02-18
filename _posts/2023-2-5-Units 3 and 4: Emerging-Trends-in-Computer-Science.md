@@ -11,14 +11,14 @@ tags: [Trends, Infrastructure, Network, 3, 4]
 **Big data** is a process that allows the collection and processing of large, heterogenous volumes of data, which can be structured, semi-structured and unstructured data or video data. The goal of this big data processing is to aid today’s organisations. These organisations can capture, process, store and analyse big data to achieve a competitive advantage. Examples can include large organisations such as Google and Netflix.
 
 #### Cloud Computing
-Examples of 3 services provided by cloud infrastructure:</p>
-**SaaS** is a cloud application service which uses internet to delivery those applications that are managed by thirdparty vendors. You don’t need to download or install these the applications on your computer. Say for example, CiscoWebEx, Google Apps.</p> 
-**PaaS**: it’s a platform as a service and allows the developers to build components to customise an application. In this service, third party vendors can manage infrastructure, like storage, network, but developers can maintain and manage the applications. Examples of PaaS is: Windows Azure, google App engine.</p>
-**Infrastructure as a service**: IaaS is scalable environment where the overall computing infrastructure is maintained as a self-service and on-demand basis. So, there is no need to buy software and hardware straightaway. As a result, a less powerful computer can still utilise the full power of a server without affecting its full efficiency. Examples are Microsoft Azure, Amazon web services (AWS), things like that.</p>
+Examples of 3 services provided by cloud infrastructure:
+> **SaaS** is a cloud application service which uses internet to delivery those applications that are managed by thirdparty vendors. You don’t need to download or install these the applications on your computer. Say for example, CiscoWebEx, Google Apps.</p> 
+> **PaaS**: it’s a platform as a service and allows the developers to build components to customise an application. In this service, third party vendors can manage infrastructure, like storage, network, but developers can maintain and manage the applications. Examples of PaaS is: Windows Azure, google App engine.</p>
+> **Infrastructure as a service**: IaaS is scalable environment where the overall computing infrastructure is maintained as a self-service and on-demand basis. So, there is no need to buy software and hardware straightaway. As a result, a less powerful computer can still utilise the full power of a server without affecting its full efficiency. Examples are Microsoft Azure, Amazon web services (AWS), things like that.</p>
 
 #### Computer Networks
 The main purpose of a computer network is to connect the computer resources and to allow the users to perform multiple tasks simultaneously.</p>
-A computer network is often classified as being either a personal area net-work **(PAN)**, a local area network **(LAN)**, a metropolitan area network **(MAN)**, or a wide area network **(WAN)**.</p>
+<p> A computer network is often classified as being either a personal area net-work **(PAN)**, a local area network **(LAN)**, a metropolitan area network **(MAN)**, or a wide area network **(WAN)**.
 A **PAN** is normally used for short-range communications—typically less than a few meters—such as between a wireless headset and a smartphone, or between a wireless mouse and its PC.</p>
 Internet is an example of WAN (wide-area network), where network covers a country or even a continent. Examples of WAN is 4G and 5G that we hear a lot about.</p> 
 In the **Bus topology/network** , the workstations can share the main cable (or the bus) for data transmission using a protocol called Carrier Sense Multiple Access (CSMA). The problem with this network is that when the main cable is broken, it affects the whole network.</p>
