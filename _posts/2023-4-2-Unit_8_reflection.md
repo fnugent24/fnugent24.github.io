@@ -1,0 +1,47 @@
+#### Unit 8 reflection
+
+An algorithm is a sequence set of instructions, executable steps that defines a terminating
+process in order to generate a meaningful output.
+
+We often use the terms ‘program’ and ‘algorithm’ interchangeably, but there is a clear
+distinction between a program and an algorithm. Rather, a program is a formal
+representation of an algorithm that needs to be executed by a computer. So, a program
+follows a set of distinct processes that needs to be executed in order to implement an
+algorithm.
+Pseudocode is useful to:
+Describe an algorithm using natural language
+Write an algorithm without following strict syntax rules
+
+There is no gap (space) between 2 words when defining a variable!
+
+An if statement does not do anything if the Boolean expression is false. It only tests to see if
+a condition is true. A false expression skips the indented code.
+The else statement is used to introduce the code to run when the Boolean expression is
+false.
+
+A for loop is a very useful iteration control structure and often used in algorithm
+implementation to test elements in a list. A for loop is used to iterate over a list.
+Iterating over a list allows you to deal with all the elements in a list individually. Iterating
+over the list means to start with the element at index 0, and then progress until you reach
+the end of the list.
+
+Complexity analysis determines the timing of execution in three different scenarios. A
+graph chart can be used to determine the execution time against the length of a data list. As
+an example, if we aim to insert a number and somehow this insertion takes place at the
+beginning of an ordered number list, then this is a best-case scenario. However, if this
+insertion takes place towards the end of the data list, then the execution time of this
+algorithm will be quite high, and we can then say that this is an analysis which will represent
+the worst-case.
+
+Algorithms are implemented by high-level languages. The programs that are written in any
+of the high-level languages are called ‘source code’.
+
+In object-oriented programming techniques, the two fundamental concepts are class and
+objects. A class is an abstract representation for data and its behaviour, often called
+methods. On the other hand, object is an instance of a class and represents real world
+objects.
+
+Inheritance is a very important feature of object-oriented programming and it has made
+object-oriented programming very popular. Inheritance enhances usability of the code by
+defining a `superclass’, in other words, an abstract class, and then producing more
+specialised classes by inheriting the features from the superclass.
