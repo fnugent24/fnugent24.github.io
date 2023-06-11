@@ -48,7 +48,7 @@ object_ost.intro()
 object_ost.flight()
 
 
-This will output the following:
+###### This will output the following:
 There are many types of birds.
 Most of the birds can fly but some cannot.
 There are many types of birds.
@@ -61,7 +61,7 @@ Ostriches cannot fly.
 Inheritence is the ability to define a new class that is a modified version of an existing class.
 For example, in poker, there are different concepts involved in the game including the use of a “deck” and a “hand”. A hand is similar to a deck as both are made up of a collection of cards and both require the uses of adding and removing cards. But they both have differences between them as well. Lets say we create a class for each of “hand” and “deck”. The relationship between these classes (which are similar but also different to each other) is known as inheritance.
 To define a new class that inherits from an existing class, you put the name of the existing class in parentheses. E.g. if we were to inherit the class “hand” from the class we have already created called “deck” we would use the following code:
-class Hand(Deck):
+**class Hand(Deck):**
 Here, the existing class (Deck) is known as the parent and the new class is known as the child.
 
 Inheritance is a useful feature (and core feature) of object-oriented programming. It can promote the reusability of code since the behaviour of the parent class(es) can be customised (i.e. creating child classes) without having to essentially modify them.
