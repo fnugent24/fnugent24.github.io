@@ -38,18 +38,18 @@ For example, here is the code for an example of method overriding (i.e. redefini
         def flight(self):
           print("Ostriches cannot fly.")
      
-  object_bird = Bird()
-  object_spr = sparrow()
-  object_ost = ostrich()
+      object_bird = Bird()
+      object_spr = sparrow()
+      object_ost = ostrich()
  
-  object_bird.intro()
-  object_bird.flight()
+      object_bird.intro()
+      object_bird.flight()
  
-  object_spr.intro()
-  object_spr.flight()
+      object_spr.intro()
+      object_spr.flight()
  
-  object_ost.intro()
-  object_ost.flight()
+      object_ost.intro()
+      object_ost.flight()
 
 
 ### This will output the following:
