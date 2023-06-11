@@ -14,9 +14,11 @@ Example of polymorphism: using the **+** operator
 
 The "+" operator can be used for different types in Python.
 It can be used to add numbers together for int data types:
-    1 + 2 = 3
+        
+        1 + 2 = 3
 Or it can also be used to form two words together (concatenation) for string data types: 
-    “hello” + “dad” = hello dad
+        
+        “hello” + “dad” = hello dad
 
 Another example of polymorphism: the **len( )** function
 
