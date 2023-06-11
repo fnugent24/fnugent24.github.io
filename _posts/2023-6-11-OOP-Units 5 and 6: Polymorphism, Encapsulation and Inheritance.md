@@ -53,17 +53,17 @@ For example, here is the code for an example of method overriding (i.e. redefini
 
 
 ### This will output the following:
-There are many types of birds.
+    There are many types of birds.
 
-Most of the birds can fly but some cannot.
+    Most of the birds can fly but some cannot.
 
-There are many types of birds.
+    There are many types of birds.
 
-Sparrows can fly.
+    Sparrows can fly.
 
-There are many types of birds.
+    There are many types of birds.
 
-Ostriches cannot fly.
+    Ostriches cannot fly.
 
 
 #### Inheritance (Codio):
