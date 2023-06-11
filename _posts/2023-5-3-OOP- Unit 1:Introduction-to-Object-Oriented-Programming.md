@@ -39,4 +39,4 @@ A few additional advantages of object-oriented programming according to Seth (20
 
 > Provides more flexibility. 
 
-• Supports creation of more manageable programs.
+> Supports creation of more manageable programs.
