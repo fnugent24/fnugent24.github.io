@@ -14,7 +14,7 @@ Example of polymorphism: using the + operator
 
 The + operator can be used for different types in Python (it can be used to add numbers together 1 + 2 = 3 for int data types or it can also be used to form two words together (concatenation) for string data types – “hello” + “dad” = hello dad).
 
-Another example of polymorphism – the len( ) function
+Another example of polymorphism: the len( ) function
 
 The len ( ) function can also be used for different data types in Python. It can be used to output the length of strings, lists, tuples, and dictionaries. For strings, it outputs the number of letters in that string, for lists, it outputs the number of items in that list and for dictionaries, it outputs the number of keys within that dictionary. So it outputs a number depending on the data type being used.
 
