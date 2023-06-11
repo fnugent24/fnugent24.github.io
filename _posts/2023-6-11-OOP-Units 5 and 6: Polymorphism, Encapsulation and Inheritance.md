@@ -10,7 +10,7 @@ tags: [OOP, Polymorphism, Inheritance, Encapsulation, 5, 6]
 #### Polymorphism:
 Learning about polymorphism – a very important concept in programming. It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
 
-Example of polymorphism – using the + operator
+Example of polymorphism: using the + operator
 
 The + operator can be used for different types in Python (it can be used to add numbers together 1 + 2 = 3 for int data types or it can also be used to form two words together (concatenation) for string data types – “hello” + “dad” = hello dad).
 
