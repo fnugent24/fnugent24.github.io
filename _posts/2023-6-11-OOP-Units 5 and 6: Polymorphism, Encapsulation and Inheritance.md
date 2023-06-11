@@ -73,7 +73,7 @@ For example, in poker, there are different concepts involved in the game includi
 
 To define a new class that inherits from an existing class, you put the name of the existing class in parentheses. E.g. if we were to inherit the class “hand” from the class we have already created called “deck” we would use the following code:
 
-**class Hand(Deck):**
+    class Hand(Deck):
 
 Here, the existing class (Deck) is known as the parent and the new class is known as the child.
 
