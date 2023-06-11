@@ -13,7 +13,7 @@ While I am getting more to grips with the basics of Python, there are already a 
 
 I did not know much about object oriented programming before this module. I had heard that it was to do with certain programming languages.
 
-**Objects** (in OOP) have **attributes (i.e. characteristics of that object/constituted of data)** and **methods (i.e. how the object behaves)**.
+**Objects** (in OOP) have **attributes** *(i.e. characteristics of that object/constituted of data)* and **methods** *(i.e. how the object behaves)*.
 
 As an analogy, a human has certain characteristics (such as a name, a size, a shape, height) and certain behaviours (sleeping, running, collecting, following).
 
