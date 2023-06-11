@@ -7,7 +7,7 @@ tags: [OOP, Polymorphism, Inheritance, Encapsulation, 5, 6]
 
 ## Reflection of Units
 
-###### Polymorphism:
+#### Polymorphism:
 Learning about polymorphism – a very important concept in programming. It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
 
 Example of polymorphism – using the + operator
@@ -48,7 +48,7 @@ object_ost.intro()
 object_ost.flight()
 
 
-###### This will output the following:
+##### This will output the following:
 There are many types of birds.
 Most of the birds can fly but some cannot.
 There are many types of birds.
@@ -57,7 +57,7 @@ There are many types of birds.
 Ostriches cannot fly.
 
 
-###### Inheritance (Codio):
+#### Inheritance (Codio):
 Inheritence is the ability to define a new class that is a modified version of an existing class.
 For example, in poker, there are different concepts involved in the game including the use of a “deck” and a “hand”. A hand is similar to a deck as both are made up of a collection of cards and both require the uses of adding and removing cards. But they both have differences between them as well. Lets say we create a class for each of “hand” and “deck”. The relationship between these classes (which are similar but also different to each other) is known as inheritance.
 To define a new class that inherits from an existing class, you put the name of the existing class in parentheses. E.g. if we were to inherit the class “hand” from the class we have already created called “deck” we would use the following code:
@@ -68,7 +68,7 @@ Inheritance is a useful feature (and core feature) of object-oriented programmin
 On the other hand, inheritance can make programming hard to read. When a method is called, it can be unclear where to find its definition. It can also make debugging difficult because when invoking a method on an object, it may be hard to figure out which method will be invoked.
 
 
-###### Class diagram:
+#### Class diagram:
 A class diagram is a diagram showing all the classes and the relationships between them.
 There are several kinds of relationships between classes:
 	Objects in one class may contain references to objects in another class. For example, in poker, each Deck contains references to many Cards. Or a tv remote contains references to many types of buttons. This kind of relationship is called HAS-A, as in, “a Deck has a Card”.
@@ -77,11 +77,12 @@ There are several kinds of relationships between classes:
 
 The following class diagram shows the relationships between Card, Deck and Hand:
 
-<img width="476" alt="image" src="https://github.com/fnugent24/fnugent24.github.io/assets/119634822/86968b98-8436-4c2d-b9b4-678ca70c7679">
+<img width="491" alt="image" src="https://github.com/fnugent24/fnugent24.github.io/assets/119634822/c944845a-50a3-426a-8ff0-cca1b59f6f57">
 
 
 
-###### Encapsulation (Codio):
+
+#### Encapsulation (Codio):
 Learning about encapsulation makes it useful for me to gain a better understanding of why it is used and why it is important. Essentially, there seems to be an element of restriction to certain parts of data which provides several benefits (such as increasing the probability of errors/bugs).
 It also seems to be important to be aware that there are differences in terms of how encapsulation works between different program languages – whereas in languages such as Java which explicitly state which types of data are public and private in their code, the Python language does this in a different way. Because classes in Python do not explicitly hide or restrict access to data, all attributes and methods in a class are in fact public by default.
 Python uses the convention of an underscore to indicate the data being private. However, it’s important to be aware that Python itself still thinks that the data is public; if it were really private, Python would instead print an error message.
