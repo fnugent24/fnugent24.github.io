@@ -10,17 +10,27 @@ tags: [OOP, Polymorphism, Inheritance, Encapsulation, 5, 6]
 #### Polymorphism:
 Learning about polymorphism – a very important concept in programming. It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
 
-Example of polymorphism: using the + operator
+Example of polymorphism: using the **+** operator
 
-The + operator can be used for different types in Python (it can be used to add numbers together 1 + 2 = 3 for int data types or it can also be used to form two words together (concatenation) for string data types – “hello” + “dad” = hello dad).
+The "+" operator can be used for different types in Python.
+It can be used to add numbers together for int data types:
+    1 + 2 = 3
+Or it can also be used to form two words together (concatenation) for string data types: 
+    “hello” + “dad” = hello dad
 
-Another example of polymorphism: the len( ) function
+Another example of polymorphism: the **len( )** function
 
-The len ( ) function can also be used for different data types in Python. It can be used to output the length of strings, lists, tuples, and dictionaries. For strings, it outputs the number of letters in that string, for lists, it outputs the number of items in that list and for dictionaries, it outputs the number of keys within that dictionary. So it outputs a number depending on the data type being used.
+The len ( ) function can also be used for different data types in Python: it can be used to output the length of strings, lists, tuples, and dictionaries. 
+> For strings, it outputs the number of letters in that string
+> For lists, it outputs the number of items in that list 
+> For dictionaries, it outputs the number of keys within that dictionary. 
 
-Like in other programming languages, the child classes in Python also inherit methods and attributes from the parent class. We can redefine certain methods and attributes specifically to fit the child class, which is known as Method Overriding. This process is particularly useful in cases where the method inherited from the parent child doesn’t quite fit the child class.
+So it outputs a number depending on the data type being used.
 
-Polymorphism allows us to access these overridden methods and attributes that have the same name as the parent class.
+Like in other programming languages, the child classes in Python also **inherit** methods and attributes from the parent class. We can redefine certain methods and attributes specifically to fit the child class, which is known as *Method Overriding*. This process is particularly useful in cases where the method inherited from the parent child doesn’t quite fit the child class.
+
+**Polymorphism** allows us to access these overridden methods and attributes that have the same name as the parent class.
+
 For example, here is the code for an example of method overriding (i.e. redefining methods and attributes from the parent class (i.e. Bird) to fit into the child classes (i.e. sparrow and ostrich).
 
     class Bird:
@@ -67,11 +77,11 @@ For example, here is the code for an example of method overriding (i.e. redefini
 
 
 #### Inheritance (Codio):
-Inheritence is the ability to define a new class that is a modified version of an existing class.
+**Inheritence** is the ability to define a new class that is a modified version of an existing class.
 
 For example, in poker, there are different concepts involved in the game including the use of a “deck” and a “hand”. A hand is similar to a deck as both are made up of a collection of cards and both require the uses of adding and removing cards. But they both have differences between them as well. Lets say we create a class for each of “hand” and “deck”. The relationship between these classes (which are similar but also different to each other) is known as inheritance.
 
-To define a new class that inherits from an existing class, you put the name of the existing class in parentheses. E.g. if we were to inherit the class “hand” from the class we have already created called “deck” we would use the following code:
+To define a new class that inherits from an existing class, you put the name of the existing class in parentheses ( ). E.g. if we were to inherit the class “hand” from the class we have already created called “deck” we would use the following code:
 
     class Hand(Deck):
 
@@ -98,9 +108,9 @@ The following class diagram shows the relationships between Card, Deck and Hand:
 
 
 #### Encapsulation (Codio):
-Learning about encapsulation makes it useful for me to gain a better understanding of why it is used and why it is important. Essentially, there seems to be an element of restriction to certain parts of data which provides several benefits (such as increasing the probability of errors/bugs).
+Learning about **encapsulation** makes it useful for me to gain a better understanding of why it is used and why it is important. Essentially, there seems to be an element of restriction to certain parts of data which provides several benefits (such as increasing the probability of errors/bugs).
 
-It also seems to be important to be aware that there are differences in terms of how encapsulation works between different program languages – whereas in languages such as Java which explicitly state which types of data are public and private in their code, the Python language does this in a different way. Because classes in Python do not explicitly hide or restrict access to data, all attributes and methods in a class are in fact public by default.
+It also seems to be important to be aware that there are differences in terms of how encapsulation works between different program languages – whereas in languages such as Java which explicitly state which types of data are public and private in their code, the Python language does this in a different way. Because classes in Python do not explicitly hide or restrict access to data, all attributes and methods in a class are in fact *public by default!*.
 
-Python uses the convention of an underscore to indicate the data being private. However, it’s important to be aware that Python itself still thinks that the data is public; if it were really private, Python would instead print an error message.
+Python uses the convention of an **underscore** to indicate the data being private. However, it’s important to be aware that Python itself still thinks that the data is public; if it were really private, Python would instead print an error message.
 
