@@ -24,7 +24,9 @@ Another example of polymorphism: the **len( )** function
 
 The len ( ) function can also be used for different data types in Python: it can be used to output the length of strings, lists, tuples, and dictionaries. 
 > For strings, it outputs the number of letters in that string
+
 > For lists, it outputs the number of items in that list 
+
 > For dictionaries, it outputs the number of keys within that dictionary. 
 
 So it outputs a number depending on the data type being used.
