@@ -86,6 +86,7 @@ On the other hand, inheritance can make programming hard to read. When a method 
 A class diagram is a diagram showing all the classes and the relationships between them.
 There are several kinds of relationships between classes:
 > Objects in one class may contain references to objects in another class. For example, in poker, each Deck contains references to many Cards. Or a tv remote contains references to many types of buttons. This kind of relationship is called HAS-A, as in, “a Deck has a Card”.
+
 > A further relationship includes one class that inherits from another class. For example, a Hand inherits from a Deck. This kind of relationship is called IS-A, as in, “a Hand is a kind of a Deck”.
 
 
