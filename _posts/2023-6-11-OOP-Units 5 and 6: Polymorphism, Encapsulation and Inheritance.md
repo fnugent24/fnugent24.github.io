@@ -23,9 +23,9 @@ Like in other programming languages, the child classes in Python also inherit me
 Polymorphism allows us to access these overridden methods and attributes that have the same name as the parent class.
 For example, here is the code for an example of method overriding (i.e. redefining methods and attributes from the parent class (i.e. Bird) to fit into the child classes (i.e. sparrow and ostrich).
 
-  class Bird:
-    def intro(self):
-      print("There are many types of birds.")
+> class Bird:
+>> def intro(self):
+>>> print("There are many types of birds.")
      
     def flight(self):
       print("Most of the birds can fly but some cannot.")
