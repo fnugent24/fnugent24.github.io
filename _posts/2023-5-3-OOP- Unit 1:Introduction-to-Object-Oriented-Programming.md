@@ -40,3 +40,9 @@ A few additional advantages of object-oriented programming according to Seth (20
 > Provides more flexibility. 
 
 > Supports creation of more manageable programs.
+
+
+#### References
+Seth, A., Aggarwal, H. and Singla, A.R., 2011. Evolution of Technology through Procedural, Object Oriented, and Component Based to Service Oriented. *Journal for Computing Teachers.*
+
+Joque, J. (2016) The Invention Of The Object: Object Orientation and the Philosophical Development of Programming Languages. *Philosophy & Technology*, 29, pp.335-356.
