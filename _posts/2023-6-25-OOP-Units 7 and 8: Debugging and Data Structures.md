@@ -36,3 +36,12 @@ The chapter “Python Data Structures” by Phillips (2018) has been useful in p
 The article by Kuk et al. (2019) is an interesting read showing the importance of Python language in the field of cybersecurity – suggests that knowledge of Python can be a particularly useful advantage compared to other programming languages in cybersecurity as it emphasises usage of algorithm designs/data structures.
 
 Article has also led to me being (more) interested in the field of cybersecurity – potentially an area to research regarding what opportunities there are in this sector?
+
+#### References
+Kuk, K., Milic, P., Spalević, P. & Gocic, M. (2019) *Algorithm design in Python for cybersecurity. Electrotechnical and Computer Science Conference*. ERK.
+
+Philips, D. (2018) 'Python Data Structures' in: *Python 3 Object-Oriented Programming*. 3rd ed. Packt Publishing.
+
+Reddy, P. P. (2019) Driverless Car: Software Modelling and Design using Python and Tensorflow.
+
+Zhou, Z. Q. & Sun, L. (2019) Metamorphic testing of driverless cars. *Communications of the ACM* 62(3): pp. 61–67. DOI: 10.1145/3241979.
