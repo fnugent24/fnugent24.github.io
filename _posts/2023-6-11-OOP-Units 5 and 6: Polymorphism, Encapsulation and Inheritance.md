@@ -119,3 +119,9 @@ It also seems to be important to be aware that there are differences in terms of
 
 Python uses the convention of an **underscore** to indicate the data being private. However, it’s important to be aware that Python itself still thinks that the data is public; if it were really private, Python would instead print an error message.
 
+#### References
+Åkerblom, B. & Wrigstad, T. (2015) Measuring polymorphism in Python programs. *Proceedings of the 11th Symposium on Dynamic Languages (DLS 2015).* Association for Computing Machinery. New York, NY, USA. DOI: 10.1145/2816707.2816717 (pp. 114-128).
+
+Lambert, K. A. & Osborne, M. (2010) 'Software Development, Data Types, and Expressions' in: *Fundamentals of Python: From First Programs through Data Structures*.
+
+Philips, D. (2018) 'The Iterator Pattern' in: *Python 3 Object-oriented Programming*. 3rd ed. Packt Publishing.
