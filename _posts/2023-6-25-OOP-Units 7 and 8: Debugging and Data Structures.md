@@ -5,13 +5,10 @@ subtitle: Debugging/error handling and Data Structures
 tags: [OOP, Debugging, error handling, Data Structures, 7, 8]
 ---
 
-## Reflection of Units
-
-
+#### Reflection of Units
 Return values are a useful tool in terms of debugging/seeing where the error comes from.
 
 A Python return statement can only return an object, not a value. It can only return one object (which can contain multiple values).
-
 
 #### Data structures
 I feel that there are still certain data structures which I need to go back to and make sure I’m comfortable with – we focused on data structures quite a bit in the previous module and I remember going through some of them and not being entirely comfortable with.
