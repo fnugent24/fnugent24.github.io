@@ -23,3 +23,8 @@ It’s also useful to be aware of the various issues that can occur with experie
 > Poor quality models/diagrams which may lead to various ways in which the model is represented by different groups/members, which can affect the overall understanding of the model.
 
 > The informality that some developers may apply when creating the models, which can lead to key information being missing and shortcuts being taken - although it should be noted that modelling is not the same as coding. For example, it is similar to the way in which the building industry works, whereby blueprints are written in an informal style using many different methods that depend on the common sense of the builder, but the buildings are still built from them successfully.
+
+#### References
+Rumbaugh, J., Jacobson, I. & Booch, G. (2004) *The Unified Modeling Language Reference Manual*. 2nd ed. Addison-Wesley.
+
+von der MaBen, T. & Lichter, H. (2002) Modeling variability by UML use case diagrams. *In Proceedings of the International Workshop on Requirements Engineering for product Lines*, pp. 19-25.
