@@ -27,8 +27,8 @@ It’s also useful to be aware of the various issues that can occur with experie
 #### References
 Lange, C.F., Chaudron, M.R. & Muskens, J. (2006) In Practice: UML Software Architecture and Design Description. *IEEE Software*, 23(2), pp.40-46.
 
-Philips, D. (2018) *Python 3 Object-Oriented programming*. 3rd ed. Packt Publishing
+Philips, D. (2018) 'Object Oriented Design' in: *Python 3 Object-Oriented programming*. 3rd ed. Packt Publishing
 
-Rumbaugh, J., Jacobson, I. & Booch, G. (2004) *The Unified Modeling Language Reference Manual*. 2nd ed. Addison-Wesley.
+Rumbaugh, J., Jacobson, I. & Booch, G. (2004) 'UML Walkthrough' in: *The Unified Modeling Language Reference Manual*. 2nd ed. Addison-Wesley.
 
 von der MaBen, T. & Lichter, H. (2002) Modeling variability by UML use case diagrams. *In Proceedings of the International Workshop on Requirements Engineering for product Lines*, pp. 19-25.
