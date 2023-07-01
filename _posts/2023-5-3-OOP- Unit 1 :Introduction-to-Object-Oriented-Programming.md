@@ -47,15 +47,15 @@ Develop a Python program and apply protected and unprotected variables within it
 
     class Shape:
       def __init__(self, length, width):
-        self.__length = length
+        self._length = length
         self.width = width
 
     obj = Shape(50, 10)
     print(obj._length)
     print(obj.width)
 
-    Note: protected/"private" variables are denoted by putting a double underscore before the object name (e.g. self.__length = length) while unprotected/"public" are     
-    denoted by not putting a double underscore before the name (e.g. self.width = width).
+    Note: protected/"private" variables are denoted by putting an underscore before the object name (e.g. self._length = length) while the conventional way of   
+    unprotected/"public" variables are to omit using an underscore (e.g. self.width = width).
 
 
 The article by Di Silvestro & Nadir (2021) provides an interesting insight on the 'emerging and increasingly successful use of ePortfolios'. Perhaps, for me, one aspect of the article that I found particularly insightful was the fact that there was an element of a "journey" involved in the making of the portfolio; but not simply a way to see one's improvements in, for example, their levels of knowledge increasing in a particular field or their improvements in their writing skills, but also on a deeper, more profound level where they could see the development of their "pathway through life" opening up - as one student puts it: 'As I read through old postings, essays, and projects, a clear picture of a person in search of something, and trying to find her way emerged.
