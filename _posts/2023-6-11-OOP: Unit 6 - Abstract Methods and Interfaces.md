@@ -15,7 +15,9 @@ Python uses the convention of an **underscore** to indicate the data being priva
 
 #### Encapsulation – Getters and Setters (Codio):
 All to do with the **private attribute** (using a single underscore (_). 
+
 **Getters** are used to return the private attribute.
+
 **Setters** are used to update the value of the private attribute.
         
 Example of Getter method:
