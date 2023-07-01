@@ -24,6 +24,17 @@ It’s also useful to be aware of the various issues that can occur with experie
 
 > The informality that some developers may apply when creating the models, which can lead to key information being missing and shortcuts being taken - although it should be noted that modelling is not the same as coding. For example, it is similar to the way in which the building industry works, whereby blueprints are written in an informal style using many different methods that depend on the common sense of the builder, but the buildings are still built from them successfully.
 
+
+#### e-Portfolio activities
+
+Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
+
+Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
+
+
+
+
+
 #### References
 Lange, C.F., Chaudron, M.R. & Muskens, J. (2006) In Practice: UML Software Architecture and Design Description. *IEEE Software*, 23(2), pp.40-46.
 
