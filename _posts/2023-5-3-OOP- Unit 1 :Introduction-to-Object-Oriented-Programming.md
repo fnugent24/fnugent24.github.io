@@ -42,7 +42,12 @@ A few additional advantages of object-oriented programming according to Seth (20
 > Supports creation of more manageable programs.
 
 
+The article by Di Silvestro & Nadir (2021) provides an interesting insight on the 'emerging and increasingly successful use of ePortfolios'. Perhaps, for me, one aspect of the article that I found particularly insightful was the fact that there was an element of a "journey" involved in the making of the portfolio; but not simply a way to see one's improvements in, for example, their levels of knowledge increasing in a particular field or their improvements in their writing skills, but also on a deeper, more profound level where they could see the development of their "pathway through life" opening up - as one student puts it: 'As I read through old postings, essays, and projects, a clear picture of a person in search of something, and trying to find her way emerged.
+
+
 #### References
-Seth, A., Aggarwal, H. and Singla, A.R., 2011. Evolution of Technology through Procedural, Object Oriented, and Component Based to Service Oriented. *Journal for Computing Teachers.*
+Di Silvestro, F. & Nadir, H. (2021) The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. *Adult Learning*, 32(4), pp.154-164.
 
 Joque, J. (2016) The Invention Of The Object: Object Orientation and the Philosophical Development of Programming Languages. *Philosophy & Technology*, 29, pp.335-356.
+
+Seth, A., Aggarwal, H. & Singla, A.R. (2011) Evolution of Technology through Procedural, Object Oriented, and Component Based to Service Oriented. *Journal for Computing Teachers.*
