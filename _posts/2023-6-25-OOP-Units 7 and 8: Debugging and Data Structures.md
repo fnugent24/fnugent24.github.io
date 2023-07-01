@@ -37,6 +37,82 @@ The article by Kuk et al. (2019) is an interesting read showing the importance o
 
 Article has also led to me being (more) interested in the field of cybersecurity – potentially an area to research regarding what opportunities there are in this sector?
 
+
+#### Codio Polymorphism notes
+Learning about polymorphism – a very important concept in programming. It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
+
+Example of polymorphism: using the **+** operator
+
+The "+" operator can be used for different types in Python.
+It can be used to add numbers together for int data types:
+        
+        1 + 2 = 3
+
+Or it can also be used to form two words together (concatenation) for string data types: 
+        
+        “hello” + “dad” = hello dad
+
+Another example of polymorphism: the **len( )** function
+
+The len ( ) function can also be used for different data types in Python: it can be used to output the length of strings, lists, tuples, and dictionaries. 
+> For strings, it outputs the number of letters in that string
+
+> For lists, it outputs the number of items in that list 
+
+> For dictionaries, it outputs the number of keys within that dictionary. 
+
+So it outputs a number depending on the data type being used.
+
+Like in other programming languages, the child classes in Python also **inherit** methods and attributes from the parent class. We can redefine certain methods and attributes specifically to fit the child class, which is known as *Method Overriding*. This process is particularly useful in cases where the method inherited from the parent child doesn’t quite fit the child class.
+
+**Polymorphism** allows us to access these overridden methods and attributes that have the same name as the parent class.
+
+For example, here is the code for an example of method overriding (i.e. redefining methods and attributes from the parent class (i.e. Bird) to fit into the child classes (i.e. sparrow and ostrich).
+
+    class Bird:
+      def intro(self):
+        print("There are many types of birds.")
+     
+    def flight(self):
+      print("Most of the birds can fly but some cannot.")
+   
+    class sparrow(Bird):
+      def flight(self):
+        print("Sparrows can fly.")
+     
+      class ostrich(Bird):
+        def flight(self):
+          print("Ostriches cannot fly.")
+     
+      object_bird = Bird()
+      object_spr = sparrow()
+      object_ost = ostrich()
+ 
+      object_bird.intro()
+      object_bird.flight()
+ 
+      object_spr.intro()
+      object_spr.flight()
+ 
+      object_ost.intro()
+      object_ost.flight()
+
+
+### This will output the following:
+    There are many types of birds.
+
+    Most of the birds can fly but some cannot.
+
+    There are many types of birds.
+
+    Sparrows can fly.
+
+    There are many types of birds.
+
+    Ostriches cannot fly.
+
+
+
 #### References
 Kuk, K., Milic, P., Spalević, P. & Gocic, M. (2019) *Algorithm design in Python for cybersecurity. Electrotechnical and Computer Science Conference*. ERK.
 
