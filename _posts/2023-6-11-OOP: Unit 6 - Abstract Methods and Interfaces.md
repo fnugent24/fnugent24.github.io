@@ -4,7 +4,7 @@ title: Object Oriented Programming Unit 6 reflection
 subtitle: Abstract Methods and Interfaces
 tags: [OOP, Abstract, Methods, Interfaces 6]
 ---
-## Reflection of Unit
+#### Unit 6 notes
 
 #### Codio Encapsulation notes:
 Learning about **encapsulation** makes it useful for me to gain a better understanding of why it is used and why it is important. Essentially, there seems to be an element of restriction to certain parts of data which provides several benefits (such as increasing the probability of errors/bugs).
