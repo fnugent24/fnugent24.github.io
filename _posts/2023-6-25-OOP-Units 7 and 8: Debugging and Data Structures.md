@@ -111,6 +111,13 @@ For example, here is the code for an example of method overriding (i.e. redefini
 
     Ostriches cannot fly.
 
+#### E-Portfolio Activities:
+1.	Discuss the ways in which data structures support object-oriented development. Use examples of three different data structures to contextualise your response.
+2.	Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
+•	items()
+•	keys()
+•	values()
+3.	Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. Your program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
 
 
 #### References
