@@ -7,7 +7,7 @@ tags: [Object, Oriented, Programming, OOP, 1]
 ---
 
 
-Look forward to completing this module, particularly as there is a strong focus on the Python language. I am also hoping to get some experience with working on Java as that will be helpful to my development in software engineering.
+I look forward to completing this module, particularly as there is a strong focus on the Python language. I am also hoping to get some experience with working on Java as that will be helpful to my development in software engineering.
 
 While I am getting more to grips with the basics of Python, there are already a few things that I am not entirely comfortable with, and would like to improve my understanding upon. These include using For loops, classes, Lambda, and recursion. I think with loops (particularly with for loops), the issue is trying to get my head around being able to understand what the computer is able to “understand” and the step-by-step approach that the computer uses.
 
