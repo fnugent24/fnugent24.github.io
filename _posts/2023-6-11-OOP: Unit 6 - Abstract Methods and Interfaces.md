@@ -4,9 +4,7 @@ title: Object Oriented Programming Unit 6 reflection
 subtitle: Abstract Methods and Interfaces
 tags: [OOP, Abstract, Methods, Interfaces 6]
 ---
-#### Unit 6 notes
-
-#### Codio Encapsulation notes:
+#### Unit 6 reflection/ Codio Encapsulation notes:
 Learning about **encapsulation** makes it useful for me to gain a better understanding of why it is used and why it is important. Essentially, there seems to be an element of restriction to certain parts of data which provides several benefits (such as increasing the probability of errors/bugs).
 
 It also seems to be important to be aware that there are differences in terms of how encapsulation works between different program languages – whereas in languages such as Java which explicitly state which types of data are public and private in their code, the Python language does this in a different way. Because classes in Python do not explicitly hide or restrict access to data, all attributes and methods in a class are in fact *public by default!*.
