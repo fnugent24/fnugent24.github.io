@@ -44,7 +44,7 @@ Develop a Python program and apply protected and unprotected variables within it
     print(obj._length)
     print(obj.width)
 
-    Note: protected/"private" variables are denoted by putting an underscore before the object name (e.g. self._length = length) while the conventional way of unprotected/"public" variables are to omit using an underscore (e.g. self.width = width).
+Note: protected/"private" variables are denoted by putting an underscore before the object name (e.g. self._length = length) while the conventional way of unprotected/"public" variables are to omit using an underscore (e.g. self.width = width).
 
 
 #### References
