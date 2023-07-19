@@ -113,11 +113,14 @@ For example, here is the code for an example of method overriding (i.e. redefini
 
 #### E-Portfolio Activities:
 1.	Discuss the ways in which data structures support object-oriented development. Use examples of three different data structures to contextualise your response.
-2.	Create a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods:
-•	items()
-•	keys()
-•	values()
-3.	Read the article by Kampffmeyer & Zschaler (2007). Develop a program which allows a user to enter the properties which they require of a design pattern, and have the program make a recommendation. Your program should use a constructor to initialise attributes and assign values to variables based on input entered by the user.
+
+Object-oriented development is a programming paradigm that emphasises the use of objects, which encapsulate data and behaviour, to model real-world entities. Data structures help facilitate the management of these objects and their interactions.
+
+One example of a data structure is a list. Lists play a vital role by providing a convenient way to manage (encapsulate) and organise/manipulate collections of objects. They allow multiple objects to be stored sequentially, which makes it easier for developers to perform group operations efficiently and enhance the overall flexibility and maintainability of the application.
+
+Another example of data structure supporting OOP is a set. Sets play a significant role by providing a specialised data structure for managing collections of unique objects. Unlike lists, sets do not allow duplicate items, which makes them particularly useful to developers when needing to maintain a unique collection of objects. However, sets also have some disadvantages compared to lists such as being unordered and only containing immutable values.
+
+A third data structure is a dictionary. Dictionaries provide a way for mapping keys to values. They are often used to represent attributes and properties of objects in an OOP setting and provide a flexible and efficient of doing this. By implementing dictionaries, developers can create more flexible and adaptable object-oriented systems.
 
 
 #### References
