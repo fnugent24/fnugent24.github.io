@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Units 3 and 4
+title: Module 1 Units 3 and 4
 subtitle: Emerging Trends in Computer Science and Computing Infrastructure and Network
 tags: [Trends, Infrastructure, Network, 3, 4]
 ---
