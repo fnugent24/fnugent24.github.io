@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit 1
+title: Module 1 Unit 1
 subtitle: Computing as a Profession – Responsibilities and Challenges
 categories: 
 tags: [Computing, introduction, 1]
