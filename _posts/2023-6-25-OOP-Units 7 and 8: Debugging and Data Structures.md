@@ -26,9 +26,7 @@ The chapter “Python Data Structures” by Phillips (2018) has been useful in p
 
 **Queues** – including FIFO (first-in first-out) queues which are most akin to real life queues, LIFO (last-in, first-out) queues which are known as stacks – i.e. having a stack/pile of paper and getting the top-most paper at the top, and Priority queues where the most “important” items are returned first 
 
-The article by Kuk et al. (2019) is an interesting read showing the importance of Python language in the field of **cybersecurity** – suggests that knowledge of Python can be a particularly useful advantage compared to other programming languages in cybersecurity as it emphasises usage of algorithm designs/data structures.
-
-Article has also led to me being (more) interested in the field of cybersecurity – potentially an area to research regarding what opportunities there are in this sector?
+The article by Kuk et al. (2019) is an interesting read showing the importance of Python language in the field of **cybersecurity** – suggests that knowledge of Python can be a particularly useful advantage compared to other programming languages in cybersecurity as it emphasises usage of algorithm designs/data structures. The article has also led to me being (more) interested in the field of cybersecurity – potentially an area to research regarding what opportunities there are in this sector?
 
 
 #### Codio Polymorphism notes
