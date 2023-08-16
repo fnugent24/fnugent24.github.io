@@ -1,3 +1,9 @@
+---
+layout: post
+title: Assignment 1 part 2
+tags: [Assignment]
+---
+
 Assignment 1 part 2
 
 Description of the implementation and instructions on how to execute the code
